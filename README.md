@@ -1,4 +1,9 @@
-<img src="images/goigi.png" style="height: 10ex; float: left; padding-right: 1em;" />
-<img src="images/incontinentainer.png" style="height: 10ex; float: right; padding-left: 1em;"/>
-
+<div align="center">
+<img src="images/goigi.png" height="80" />
+</div>
+<div align="center">
 Go leak plumber and namespace &amp; incontinentainer explorer.
+</div>
+<div align="center">
+<img src="images/incontinentainer.png" height="80"/>
+</div>
